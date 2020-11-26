@@ -1,0 +1,41 @@
+
+img{
+    width: 100px;
+    height: 60px;
+}
+.navbar{
+    background :linear-gradient(to right, rgba(15, 15, 15, 0.075) 50% ,purple ) ;
+}
+.n1{
+    margin-left: 1000px;
+}
+.card{
+    box-shadow:2px 2px gray;
+    margin-top: 25px;
+}
+.card img{
+    height: 250px;
+    border-radius: 20px;
+}
+.card h5{
+    text-decoration: underline;
+}
+.card .card-body{
+    text-align: center;
+}
+.card .card-body a{
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 1px 1px black;
+}
+table{
+    margin-top: 20px;
+}
+footer{
+    background-color: grey;
+    text-align: center;
+    margin-top: 20px;
+}
+footer form{
+    margin-left: 450px;
+}
